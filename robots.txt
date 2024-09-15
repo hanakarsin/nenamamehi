@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap : https://nenamamehi.netlify.app/sitemap.xml
